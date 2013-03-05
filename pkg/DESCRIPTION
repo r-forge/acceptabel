@@ -1,0 +1,9 @@
+Package: AcceptABEL
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2013-02-26
+Author: Marcin Kierczak, Xia Shen
+Maintainer: Marcin Kierczak <marcin.kierczak@slu.se>, Xia Shen <xia.shen@slu.se>
+Description: Functions for estimating false positives rate in a genome-wide association study
+License: GPL<2
