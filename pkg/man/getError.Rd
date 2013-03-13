@@ -2,10 +2,10 @@
 \alias{getError}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+Get residuals coming from a given distribution
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+Get residuals coming from a distribution with a given set of parameters
 }
 \usage{
 getError(H2, freqs, means, ninds)
@@ -13,16 +13,16 @@ getError(H2, freqs, means, ninds)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{H2}{
-%%     ~~Describe \code{H2} here~~
+Heritability
 }
   \item{freqs}{
-%%     ~~Describe \code{freqs} here~~
+Allele frequencies
 }
   \item{means}{
-%%     ~~Describe \code{means} here~~
+Phenotype means per genotype
 }
   \item{ninds}{
-%%     ~~Describe \code{ninds} here~~
+Number of individuals
 }
 }
 \details{

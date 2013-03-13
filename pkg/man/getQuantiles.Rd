@@ -2,10 +2,10 @@
 \alias{getQuantiles}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+get quantiles from the genotypes
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+get quantiles from the genotypes
 }
 \usage{
 getQuantiles(data, snp.name, trait.name, cov.names, n = 100, progress.bar = T)

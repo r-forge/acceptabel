@@ -2,10 +2,10 @@
 \alias{getSimulatedPhenotype}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+getSimulatedPhenotype
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+Retrieve simulated phenotypes
 }
 \usage{
 getSimulatedPhenotype(data, snp.name, trait.name, covars = "")
