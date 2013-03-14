@@ -1,9 +1,9 @@
 Package: AcceptABEL
 Type: Package
-Title: What the package does (short line)
+Title: A package for controlling false positives rate in GWAS by estimating local inflation factor
 Version: 1.0
 Date: 2013-02-26
 Author: Marcin Kierczak, Xia Shen
 Maintainer: Marcin Kierczak <marcin.kierczak@slu.se>, Xia Shen <xia.shen@slu.se>
-Description: Functions for estimating false positives rate in a genome-wide association study
+Description: Functions for controlling false positives rate in a genome-wide association studies by estimating local inflation factor
 License: GPL<2
